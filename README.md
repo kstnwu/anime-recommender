@@ -4,6 +4,8 @@ Type an anime you liked and get five shows to watch next.
 
 **Live app:** https://kstnwu-anime-recommender.streamlit.app/
 
+[![App home screen](figures/app_screenshot.png)](https://kstnwu-anime-recommender.streamlit.app/)
+
 ## Summary
 
 - **Problem:** New titles have no viewing history, so "viewers also watched" recommendations can't cover them.
