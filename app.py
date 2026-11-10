@@ -4,7 +4,7 @@ import re
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Find your next anime", page_icon="🌸", layout="wide")
+st.set_page_config(page_title="Find your next anime", page_icon="🍜", layout="wide")
 
 NAVY = "#1F2B5B"
 BLUE = "#5A74D0"
